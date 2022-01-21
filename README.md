@@ -4,28 +4,36 @@ Currently, I am a full-time Master student studying Biostatistics at University 
 
 #### Projects
 
-- [In Progress: HUD]()
-  - Epi
+- [In Progress: HUD](https://github.com/hantongh/housing.exit.outcome)
+  - 
+  - Publication coming up!
 
+- [Risk factors of Fatality in Car Crash](https://github.com/hantongh/car.crash)
+  -
 
+- [Breast Cancer Gene Analysis](https://github.com/hantongh/troester.lab)
+  - 
 
-#### Previous Working Projects
-- []
+- [New York State Crime Analysis]()
+  -
+
 
 #### Previous Coursework/Course Presentation
 University of Washington
 - [BIOST 504 Foundations of Public Health for Biostatistics](https://github.com/hantongh/uw.biost.504)
   - Presentations and researches on topics related to Public Health
-- [BIOST 524 Design of Medical Studies]()
+- [BIOST 524 Design of Medical Studies](https://github.com/hantongh/uw.biost.524)
   - Phase 2 clinical trial design
-- [BIOST 536 Categorical Data Analysis in Epidemiology]()
+- [BIOST 536 Categorical Data Analysis in Epidemiology](https://github.com/hantongh/uw.biost.536)
   - Cate
-* [BIOST 540 Longitudinal and Multilevel Data Analysis]()
-* [BIOST 544 Introduction To Biomedical Data Science]()
-* [BIOST 561 Computational Skills for Biostatistics I]()
+- [BIOST 540 Longitudinal and Multilevel Data Analysis](https://github.com/hantongh/uw.biost.540)
+- [BIOST 544 Introduction To Biomedical Data Science](https://github.com/hantongh/uw.biost.544)
+- [BIOST 561 Computational Skills for Biostatistics I](https://github.com/hantongh/uw.biost.561)
 
 University of North Carolina at Chapel Hill
-
+- [BIOS 511]
+- [BIOS 663]
+- [BIOS 669]
 
 <!---
 hantongh/hantongh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
