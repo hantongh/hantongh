@@ -6,13 +6,16 @@ Currently, I am a full-time Master student studying Biostatistics at University 
 - [In Progress: HUD](https://github.com/hantongh/housing.exit.outcome)
   - aaa
   - Publication coming up!
+
 - [Risk factors of Fatality in Car Crash](https://github.com/hantongh/car.crash)
   - aaa
-- [Breast Cancer Gene Analysis](https://github.com/hantongh/troester.lab)
-  - aaa
+
 - [New York State Crime Analysis]()
   - aa
 
+#### Past Working Projects
+- [Breast Cancer Gene Analysis](https://github.com/hantongh/troester.lab)
+  - aaa
 
 #### Previous Coursework/Course Presentation
 University of Washington
