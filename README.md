@@ -3,17 +3,13 @@
 Currently, I am a full-time Master student studying Biostatistics at University of Washington. This page aims to show what I have done in the past and navigate those who are interested in my work. I plan to look for jobs related to the biostatistics industry such as statistical programmer and biostatisticians after graduation, so if you ever find me suitable, feel free to reach me at my <a href="https://www.linkedin.com/in/hantong-hu/">LinkedIn</a>
 
 #### Projects
-
 - [In Progress: HUD](https://github.com/hantongh/housing.exit.outcome)
   - 
   - Publication coming up!
-
 - [Risk factors of Fatality in Car Crash](https://github.com/hantongh/car.crash)
   -
-
 - [Breast Cancer Gene Analysis](https://github.com/hantongh/troester.lab)
   - 
-
 - [New York State Crime Analysis]()
   -
 
