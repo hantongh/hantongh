@@ -8,7 +8,7 @@ Currently, I am a full-time Master student studying Biostatistics at University 
 
 #### Previous Coursework/Presentation
 University of Washington
-{\tiny}
+{font size=1}
 - [BIOST 504 Foundations of Public Health for Biostatistics](https://github.com/hantongh/uw.biost.504)
   - 
 - [BIOST 514 Biostatistics]()
