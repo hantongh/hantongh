@@ -15,7 +15,7 @@ Currently, I am a full-time Master student studying Biostatistics at University 
 #### Previous Coursework/Course Presentation
 University of Washington
 - [BIOST 504 Foundations of Public Health for Biostatistics](https://github.com/hantongh/uw.biost.504)
-  - Presentations on XXX
+  - Presentations and researches on topics related to Public Health
 - [BIOST 524 Design of Medical Studies]()
   - Phase 2 clinical trial design
 - [BIOST 536 Categorical Data Analysis in Epidemiology]()
