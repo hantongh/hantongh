@@ -3,19 +3,25 @@
 Currently, I am a full-time Master student studying Biostatistics at University of Washington. This page aims to show what I have done in the past and navigate those who are interested in my work. I plan to look for jobs related to the biostatistics industry such as statistical programmer and biostatisticians after graduation, so if you ever find me suitable, feel free to reach me at my <a href="https://www.linkedin.com/in/hantong-hu/">LinkedIn</a>
 
 #### Projects
-- [In Progress: HUD](https://github.com/hantongh/housing.exit.outcome)
-  - aaa
+- [In Progress: HUD HEARS Study](https://github.com/hantongh/housing.exit.outcome)
+  - Half-year team project in collaboration with <a href="https://kingcounty.gov/">Public Health — Seattle & King County</a> Assessment, Policy Development and Evaluation Unit
+  - Explore the association between public housing exit types and time to homelessness event using survival analysis, propensity score, generalized estimating equation (GEE), and leave-one-out analysis
+  - Development of Statistical Analysis Plan as a team and implementation using R
   - Publication coming up!
 
 - [Risk factors of Fatality in Car Crash](https://github.com/hantongh/car.crash)
-  - aaa
+  - Independent development of a Statistical Analysis Plan
+  - R-based administrative data exploration and regression analysis
 
 - [New York State Crime Analysis](https://github.com/hantongh/ny.state.crime)
-  - aa
+  - Semester-long project in University of North Carolina at Chapel Hill
+  - SAS-based data science pipeline and model development
+  - Created SAS Macros to efficiently produce summary tables and figures from huge data table
 
 #### Past Working Projects
 - [Breast Cancer Gene Analysis](https://github.com/hantongh/troester.lab)
-  - aaa
+  - Research Assistant projects in University of North Carolina at Chapel Hill
+  - Developed new programs in R to automatically clean data sets and perform Principal Component Analysis
 
 #### Previous Coursework/Course Presentation
 *University of Washington*
